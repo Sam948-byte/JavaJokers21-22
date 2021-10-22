@@ -1,4 +1,4 @@
-# JavaJokers21-22
+# JavaJokers 
 Login join wifi of robot
 13828-rc
 password: JAVAJOKERS!@#
